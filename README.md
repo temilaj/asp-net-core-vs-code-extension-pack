@@ -8,8 +8,9 @@ A collection of extensions for developing ASP.NET core Applications in VS Code
 ## Extensions Included
 
 This VS Code extension pack adds a set of extensions to help supercharge ASP.NET core application development 🚀
-| Extension | Author | Version |
-|:--------- |:------ |:------- |
+ 
+| Extension | Author | Version | 
+|:--------- |:------ |:------- | 
 | [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) | Microsoft | C# editing support, including Syntax Highlighting, Debugging, IntelliSense, Go to Definition, Find All References, etc. in VS Code.
 | [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) | jchannon | extend VS Code and easily spin up classes, interfaces and more to speed up your C# development workflow.
 | [ASP.NET Core Snippets](https://marketplace.visualstudio.com/items?itemName=rahulsahay.csharp-aspnetcore) | rahulsahay | A collection of snippets for Visual Studio Code to supercharge ASP.NET core application development 🚀 .
