@@ -2,12 +2,18 @@
     "name": "asp-net-core-vs-code-extension-pack",
     "displayName": "ASP.NET core VS Code Extension Pack",
     "description": "A collection of extensions for developing ASP.NET core Applications in VS Code",
-    "version": "0.1.0",
+    "version": "1.0.1",
     "publisher": "temilaj",
     "engines": {
         "vscode": "^1.14.0"
     },
-    "keywords": ["asp.net core", "asp.net", "extension pack", "asp.net core extension collection"],
+    "license": "MIT",
+    "galleryBanner": {
+      "color": "#5c2d91",
+      "theme": "dark"
+    },
+    "icon": "logo.png",
+    "keywords": ["ASP.NET Core", "ASP.NET ", "extension pack", ".NET Core", "asp.net core extension collection"],
     "categories": [
         "Extension Packs"
     ],
@@ -21,8 +27,9 @@
     "extensionDependencies": [ 
         "ms-vscode.csharp", 
         "jchannon.csharpextensions", 
-        "ms-mssql.mssql",
         "rahulsahay.csharp-aspnetcore",
+        "ms-mssql.mssql",
+        "schneiderpat.aspnet-helper",
         "k--kato.docomment"
     ]
 }
