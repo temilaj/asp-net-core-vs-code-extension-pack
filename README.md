@@ -4,7 +4,7 @@ A collection of extensions for developing ASP.NET core Applications in VS Code
 
 [![Latest Release](https://vsmarketplacebadge.apphb.com/version/temilaj.asp-net-core-vs-code-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=temialaj.asp-net-core-vs-code-extension-pack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
-
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/temilaj.asp-net-core-vs-code-extension-pack.svg)](https://vsmarketplacebadge.apphb.com/installs-short/temilaj.asp-net-core-vs-code-extension-pack.svg)  
 ## Extensions Included
 
 This VS Code extension pack adds a set of extensions to help supercharge ASP.NET core application development 🚀
@@ -34,7 +34,7 @@ Create a Pull Request I'll give it a spin.
 ## Relevant Links
 
 * [Github](https://github.com/temilaj/asp-net-core-vs-code-extension-pack)
-* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=temialaj.asp-net-core-vs-code-extension-pack)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=temilaj.asp-net-core-vs-code-extension-pack)
 
 
 **Enjoy!**
