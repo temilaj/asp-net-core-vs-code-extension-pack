@@ -24,7 +24,7 @@
       "bugs": {
         "url": "https://github.com/temilaj/asp-net-core-vs-code-extension-pack/issues"
       },
-    "extensionDependencies": [ 
+    "extensionPack": [ 
         "ms-vscode.csharp", 
         "jchannon.csharpextensions", 
         "rahulsahay.csharp-aspnetcore",
