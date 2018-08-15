@@ -34,7 +34,7 @@ Create a Pull Request I'll give it a spin.
 ## Relevant Links
 
 * [Github](https://github.com/temilaj/asp-net-core-vs-code-extension-pack)
-* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=temialaj.asp-net-core-vs-code-extension-pack)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=temilaj.asp-net-core-vs-code-extension-pack)
 
 
 **Enjoy!**

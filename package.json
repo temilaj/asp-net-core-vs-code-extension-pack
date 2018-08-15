@@ -2,7 +2,7 @@
     "name": "asp-net-core-vs-code-extension-pack",
     "displayName": "ASP.NET core VS Code Extension Pack",
     "description": "A collection of extensions for developing ASP.NET core Applications in VS Code",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "temilaj",
     "engines": {
         "vscode": "^1.14.0"
